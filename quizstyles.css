@@ -33,7 +33,7 @@
     
 }
 .congo{
-    background-color: burlywood;
+    background-color: lightskyblue;
 }
 p{
     color: red;
@@ -44,12 +44,67 @@ ul{
     color: white;
     text-align: center;
 }
-.div{
-    width: 30px;
-    left: 40px;
-    height: 20px;
+.menu1{
+    width: 400px;
+    float: left;
+    height: 70px;
 
 }
-li{
-    color: lime;
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+    color: red;
+
+}
+
+}
+.DURE::before{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    width: 20px;
+    min-width: 10px;
+}
+.img{
+    width: 14%;
+    margin: 20px;
+}
+.boss{
+
+    margin: 20px;
+    width: 50%;
+    height: 80%;
+}
+.go{
+    color:red;
+    text-align: left;
+    width: 60%;
+}
+.red{
+    color: black;
+    text-align: left;
+}
+.tp{
+    text-align: left;
+    color: whitesmoke;
 }

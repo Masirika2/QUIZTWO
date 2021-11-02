@@ -1,0 +1,55 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.joseph{
+    background-image: url("./images/bac.jpg");
+}
+
+.goma{
+    background-color: lightskyblue;
+    width: 80px;
+    width: 100%;
+    
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    min-width: 100px;
+    min-height: 100px;
+
+}
+.africa{
+    background-image:linear-gradient(to top,rgba(0,0,0,0.5) 50%,rgba(0,0,0,0.5) 50%), url("./images/12.jpg");
+    width: 80px;
+    width: 100%;
+    
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    min-width: 100px;
+    min-height: 100px;
+
+    
+}
+.congo{
+    background-color: burlywood;
+}
+p{
+    color: red;
+    text-align: center;
+    width: 60%;
+}
+ul{
+    color: white;
+    text-align: center;
+}
+.div{
+    width: 30px;
+    left: 40px;
+    height: 20px;
+
+}
+li{
+    color: lime;
+}
